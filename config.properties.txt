@@ -1,0 +1,2 @@
+uname = manisha
+password = manisha123
